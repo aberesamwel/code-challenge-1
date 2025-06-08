@@ -30,4 +30,4 @@ This project is open-source and free to use.
 ## Website
 
 👉 Visit my personal website for more projects and tutorials:  
-[abere.maina Website](https://aberemaina.dev)
+[abere.maina Website](https://aberesamwel.github.io/code-challenge-1/)
