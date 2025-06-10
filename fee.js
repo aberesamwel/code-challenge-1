@@ -23,10 +23,10 @@ function estimateTransactionFee(amountToSend) {
 }
 
 // Prompt the user to enter the amount they would like to send
-let input = prompt("Enter the amount of money you would like to send:");
+let thirdUserinput = prompt("Enter the amount of money you would like to send:");
 
 // Parse the input to an integer
-let amount = parseInt(input);
+let amount = parseInt(thirdUserinput);
 
 // Check if the input is a valid number
 if (!isNaN(amount)) {

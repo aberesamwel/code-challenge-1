@@ -18,8 +18,8 @@ function calculateBodaFare(distanceInKm){
 }
 // prompt message to the user to enter distance
 
-let input = prompt("Please enter your distan ce in Kilometres")
-let distance = parseInt(input)
+let secondUserinput = prompt("Please enter your distan ce in Kilometres")
+let distance = parseInt(secondUserinput)
 
 // Conditional statement  to give give response in line of your input
 

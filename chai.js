@@ -13,8 +13,8 @@ function calculateChaiIngredients(cups){
 }
 
   // Prompt a user to enter the credetials of making Chai Bora
-let input = prompt("Karibu! How many cups of Chai Bora would you like to make?");
-let cups = parseInt(input);
+let firstUserinput = prompt("Karibu! How many cups of Chai Bora would you like to make?");
+let cups = parseInt(firstUserinput);
 
 // Checking wheather you have right requirements of making Chai Bora
 if (isNaN(cups)) {
